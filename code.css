@@ -21,17 +21,17 @@ body{
     transition: 0.3s;
     background-size: cover;
     background-position: center;
-    background-image: url("img./press-start-gif.gif");
+    background-image: url("./img/press-start-gif.gif");
 }
 .gato{
 
-    background-image: url(img/gato.gif);
+    background-image: url("./img/gato.gif");
     width: 230px;
     height: 220px;
 }
 .cat{
 
-    background-image: url(img/cat.jpg);
+    background-image: url("./img/cat.jpg");
     width: 230px;
     height: 220px;
 }
